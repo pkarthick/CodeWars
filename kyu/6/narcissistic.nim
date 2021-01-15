@@ -1,5 +1,6 @@
 import math
 
+#Does my number look big in this?
 proc narcissistic*(value: int): bool =
   
   let digits = ($value).len() # better way to find out the number of digits? other than division
