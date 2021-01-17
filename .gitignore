@@ -1,6 +1,8 @@
 *.exe
 *.pdb
+*.cfg
 
 .fake
 .ionide
 .vscode
+target
